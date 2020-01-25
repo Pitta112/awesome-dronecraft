@@ -144,7 +144,7 @@ There are a lot of distractions that can take up valuable time. Focus and concen
 
 Learn to code. This is only required for you to understand how the different algorithms and techniques that will be presented are actually implemented. You need this knowledge to be able to understand the source code of the popular data structure implementations, open source flight controllers and more. Basic data structure and algorithmic complexity should be included.
 
-- [ ] **C, C++, Python, Anything**
+- [x] **C, C++, Python, Anything**
     - Information available on the internet is widely available and you can find lot's of stuff by googling.
     - I could recommend to start with Python and work your way down to C and C++.
     - You can learn to code in parallel with this study plan, but things will be a lot harder and will take more time.
